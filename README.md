@@ -221,7 +221,7 @@ Ensure you have the following installed:
 ### **2. Clone the Repository**
 
 ```bash
-git clone https://github.com/hoangsonww/ToDo-App-NextJS-Fullstack.git
+git remote add origin https://github.com/Mitultopiya/ToDo-App-NextJS-Fullstack.git
 cd ToDo-App-NextJS-Fullstack
 ```
 
