@@ -408,7 +408,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📧 **Contact**
 
-For any inquiries or feedback, feel free to reach out to the author at `hoangson091104@gmail.com`.
+For any inquiries or feedback, feel free to reach out to the author at `work.mitultopiya@gmail.com`.
 
 Enjoy using the **ToDo-App-Fullstack-NextJS**! 🎉
 
